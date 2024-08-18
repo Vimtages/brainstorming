@@ -24,7 +24,7 @@ Note: We can have multiple projects and multiple teams, the goal is to work as a
 
 ## 📋 How to Submit Your Ideas
 
-1. **Fork this repository.**
+1. **Fork this repository.** (refer to https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 2. **Clone the forked repository** to your local machine.
 3. Create a new branch for your idea:
    ```
@@ -43,7 +43,7 @@ Note: We can have multiple projects and multiple teams, the goal is to work as a
    **Additional Notes:** Any other relevant information about the idea.
    ```
 5. **Commit your changes** and push them to your forked repository.
-6. Open a **pull request** to this repository, and we’ll review your idea.
+6. Open a **pull request** to this repository, and we’ll review your idea (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ##What’s Next?
 
