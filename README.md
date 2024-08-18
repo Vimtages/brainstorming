@@ -41,6 +41,8 @@ Note: We can have multiple projects and multiple teams, the goal is to work as a
    **Essential Roles:** Identify key roles needed for this project (e.g., frontend developer, backend developer, UI/UX designer, project manager).
 
    **Additional Notes:** Any other relevant information about the idea.
+   
+   **Participant Names:** Anyone who wants to join this idea and what role
    ```
 5. **Commit your changes** and push them to your forked repository.
 6. Open a **pull request** to this repository, and we’ll review your idea (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).

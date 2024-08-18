@@ -21,3 +21,6 @@ So this is a full blown app i would want it to be possible to access through web
 To accomplish this a RESTFul API might suit best for the needs of this app. Let's use MVC+S for the app architecture to make it easy to maintain.
 Also i just want yall to have fun and hoo hoo all day, if we can make a startup and win big dolla dolla noice.
 There are no timelines and as we say in portugal "vai se fazendo".
+
+**Participant Names:**
+Pedro Colaço - I do Everything Needed
