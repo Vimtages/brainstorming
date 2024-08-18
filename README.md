@@ -53,6 +53,6 @@ After that, we’ll dive into planning and development, working together to brin
 
 ##Join the Discussion
 
-We’ve set up a Discussion Board(https://github.com/your-repo/discussions) where you can chat with other contributors, ask questions, and provide feedback. Let’s make this a collaborative and enjoyable experience for everyone involved!
+We’ve set up a Discussion Board(https://github.com/orgs/Vimtages/discussions/2) where you can chat with other contributors, ask questions, and provide feedback. Let’s make this a collaborative and enjoyable experience for everyone involved!
 
 ##Looking Forward to Work Together!!!
